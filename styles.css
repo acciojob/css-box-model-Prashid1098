@@ -1,20 +1,14 @@
 
 /* Your CSS Code here. */
-.z
+body
 {
-	border: 1px solid black;
+	border: 1px solid;
+	position: absolute;
 }
-.a
-{
-	border: 15px solid blue;
-	width: 400px;
-	height: 150px;
-	background-color: lightblue;
-	padding: 20px;
-}
-.a .b
-{
-	border: 1px solid black;
+div{
 	width: 300px;
-	padding: 50px 50px 50px 50px;
+	background-color: lightblue;
+	border: 15px solid blue;        
+    margin: 20px;
+ 	padding: 50px;
 }
